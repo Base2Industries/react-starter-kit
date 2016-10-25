@@ -2644,7 +2644,7 @@ module.exports =
       to: '/'
     }, void 0, _ref, (0, _jsx3.default)('span', {
       className: _Header2.default.brandTxt
-    }, void 0, 'Your Company')), (0, _jsx3.default)('div', {
+    }, void 0, 'Base2Industries')), (0, _jsx3.default)('div', {
       className: _Header2.default.banner
     }, void 0, (0, _jsx3.default)('h1', {
       className: _Header2.default.bannerTitle
